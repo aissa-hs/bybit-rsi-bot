@@ -1,6 +1,6 @@
 {
-  "buildCommand": "pip install -r requirements.txt",
+  "buildCommand": "pip install --break-system-packages -r requirements.txt",
   "outputDirectory": ".",
-  "installCommand": "pip install -r requirements.txt",
+  "installCommand": "pip install --break-system-packages -r requirements.txt",
   "framework": "python"
 }
