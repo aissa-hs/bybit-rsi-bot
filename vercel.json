@@ -2,6 +2,5 @@
   "buildCommand": "pip install -r requirements.txt",
   "outputDirectory": ".",
   "installCommand": "pip install -r requirements.txt",
-  "framework": "python",
-  "runCommand": "python bybit_rsi_bot.py"
+  "framework": "python"
 }
