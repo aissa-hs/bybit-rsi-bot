@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+trade_history.json
+.env
+*.log
